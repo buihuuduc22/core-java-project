@@ -1,0 +1,3 @@
+Book, 001, Quoc Gia, 1000, Le Cong Anh, 200
+Journal, 002, Nguyen Quoc Anh, 2000, 12, 3
+Newspaper, 003, Nguyen Tien Nghia, 300, 01/5/2018

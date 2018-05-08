@@ -1,0 +1,4 @@
+Staff, Bui Huu Duc, IT, STAFF, 3.4, 500.0, 45.0, 4332.0
+Teacher, Bui Huu Trung, Eng, Master, 4.5, 500.0, 456.0, 24305.0
+Teacher, Bui Huu Duc, IT, Balance, 3.4, 300.0, 45.0, 4807.0
+Staff, Bui Huu Duc, IT, HEAD, 23.0, 2000.0, 3.4, 18892.0
